@@ -1,3 +1,6 @@
+# 💫 About Me:
+# Hi 👋 I'm Aarav Uniyal<br><br>🚀 MERN Stack Developer  <br>💻 Building scalable full-stack applications with React, Node.js, Express, and MongoDB  <br>🌱 Currently learning System Design & Cloud Architecture
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aaravuniyal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaravuniyal3@gmail.com) 
@@ -8,3 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=SapotaDA&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SapotaDA&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SapotaDA&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SapotaDA&icon=0&color=0)](https://visitcount.itsvg.in)
