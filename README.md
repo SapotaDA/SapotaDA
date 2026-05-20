@@ -1,106 +1,152 @@
 <div align="center">
 
-# Aarav Uniyal
+<br/>
 
-### React · Node.js · AWS · Full-Stack
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Aarav%20Uniyal&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
-[![Portfolio](https://img.shields.io/badge/▲-Portfolio-black?style=flat-square)](https://github.com/SapotaDA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaravuniyal)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aaravuniyal3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SapotaDA)
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=24&duration=3500&pause=1200&color=FFFFFFAA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Final-year+BCA+%40+Yenepoya+University;DevOps+Intern+%40+TCS+iON;JavaScript+%7C+Node.js+%7C+Cloud+%26+DevOps" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/SapotaDA"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=fff" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aaravuniyal"><img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;&nbsp;
+<a href="mailto:aaravuniyal3@gmail.com"><img src="https://img.shields.io/badge/-Mail-000?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+
+<br/><br/>
+
+---
+
+<h3>Hey, I'm Aarav</h3>
+
+<p>
+Final-year BCA student from Delhi, India. Recently interned as a <strong>DevOps Engineer at TCS iON</strong>,<br/>
+building full-stack web apps and CI/CD pipelines on AWS. I ship scalable, user-focused products.
+</p>
+
+<br/>
 
 </div>
 
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/~40%25-000?style=for-the-badge" /><br/>
+<sub><strong>Deployment Effort Reduced</strong></sub><br/>
+<sup>CI/CD Pipeline @ TCS iON</sup>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/2-000?style=for-the-badge" /><br/>
+<sub><strong>Production Projects</strong></sub><br/>
+<sup>JWT Auth + RESTful APIs</sup>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/7.6_CGPA-000?style=for-the-badge" /><br/>
+<sub><strong>Academic Performance</strong></sub><br/>
+<sup>Yenepoya University</sup>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/4_Certs-000?style=for-the-badge" /><br/>
+<sub><strong>Certifications</strong></sub><br/>
+<sup>Coursera + TCS iON</sup>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 ---
 
-## Hey, I'm Aarav
-
-Final-year BCA student from Delhi, India. Currently interning as a **DevOps Engineer at TCS iON** and building full-stack web apps — from real-time booking platforms to task management systems. I care about clean APIs, seamless deployments, and products that actually work in production.
+<br/>
 
 <div align="center">
 
-| **2** | **40%** | **4+** | **BCA** |
-|:---:|:---:|:---:|:---:|
-| Production Projects | CI/CD Deployment Effort Reduced | Certifications | Yenepoya University |
-| Full-Stack + DevOps | AWS Native Pipeline | Coursera · TCS iON | CGPA: 7.6 · 2026 |
+<h3>What I've Built</h3>
+
+<br/>
+
+<a href="https://github.com/SapotaDA">
+<img src="https://img.shields.io/badge/Cricket_Ground_Booking-Full_Stack_Platform-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmVlMDRhIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjMiIHk9IjQiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjIiLz48bGluZSB4MT0iMTYiIHkxPSIyIiB4Mj0iMTYiIHkyPSI2Ii8+PGxpbmUgeDE9IjgiIHkxPSIyIiB4Mj0iOCIgeTI9IjYiLz48bGluZSB4MT0iMyIgeTE9IjEwIiB4Mj0iMjEiIHkyPSIxMCIvPjwvc3ZnPg==&logoColor=6ee04a" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/SapotaDA">
+<img src="https://img.shields.io/badge/TaskiFlow-MERN_Task_Manager-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmVlMDRhIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik05IDExbDMgM0wxOCA3Ii8+PHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMiIvPjwvc3ZnPg==&logoColor=6ee04a" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/SapotaDA">
+<img src="https://img.shields.io/badge/CI%2FCD_Pipeline-AWS_Native-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</a>
 
 </div>
 
----
-
-## What I've Built
-
-**🏏 Cricket Ground Booking Platform** · `TypeScript · React · Express.js · PostgreSQL · Drizzle ORM · Tailwind CSS`
-
-> Full-stack sports facility booking system with real-time slot availability and calendar scheduling.
-
-- Developed real-time slot availability with database-driven reservations using PostgreSQL + Drizzle ORM
-- Implemented calendar integration and backend APIs with Express.js
-- Built responsive UI with React and Tailwind CSS for seamless booking workflows
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SapotaDA)
+<br/>
 
 ---
 
-**✅ TaskiFlow** · `MERN Stack · Vite · TailwindCSS · JWT · Nodemailer`
-
-> Task management application to streamline task creation, tracking, and team notifications.
-
-- Built full-stack task management system using MongoDB, Express.js, React, and Node.js
-- Implemented secure JWT authentication, bcrypt password hashing, and Nodemailer notifications
-- Deployed on Vercel with Helmet, rate-limiting, and input sanitization for production readiness
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SapotaDA)
-
----
-
-## Experience
-
-**DevOps Intern — TCS iON (Tata Consultancy Services)** · *Nov 2025 – Feb 2026 · Bangalore, India*
-
-- Designed and implemented an automated CI/CD pipeline using AWS CodeCommit, CodePipeline, CodeDeploy, and EC2
-- Configured IAM roles, AWS CLI, and Apache web server for secure deployment workflows
-- Automated build and deployment processes, reducing manual intervention and improving release consistency
-- Monitored pipeline execution and resolved deployment issues through log analysis
-
----
-
-## Tech Stack
+<br/>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<h3>Tech Stack</h3>
 
-*Also: REST APIs · JWT · Drizzle ORM · Postman · Vite · MySQL · CI/CD*
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,mongodb,mysql,docker,aws,git,linux&theme=dark" />
+
+<br/><br/>
+
+<sub><strong>Also:</strong> Tailwind CSS &middot; JWT Authentication &middot; RESTful APIs &middot; Drizzle ORM &middot; Vite &middot; Postman &middot; CI/CD &middot; CodePipeline &middot; Nodemailer</sub>
 
 </div>
 
----
-
-## Certifications
-
-- 🎓 **Frontend Development using React** — Board Infinity (Coursera) · Oct 2025 · `SOAT74O0JE39`
-- 📊 **Interactive Statistical Data Visualization 101** — Coursera · Apr 2025 · `HJUCJHDYBVOX`
-- 🏛️ **Strategic Leadership & Management Capstone** — UIUC · Apr 2025 · `DM4L8URG9K7`
-- ☁️ **CI/CD Pipeline with AWS Native** — TCS iON · Nov 2025–Feb 2026 · `1252-28910953-1016`
+<br/>
 
 ---
+
+<br/>
 
 <div align="center">
 
-*"Build it. Ship it. Improve it."*
+<h3>GitHub</h3>
 
-**Delhi, India** · [aaravuniyal3@gmail.com](mailto:aaravuniyal3@gmail.com)
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SapotaDA&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=6ee04a&text_color=8b949e&ring_color=6ee04a" />&nbsp;&nbsp;&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SapotaDA&theme=transparent&hide_border=true&ring=6ee04a&fire=6ee04a&currStreakLabel=ffffff&sideLabels=8B949E&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SapotaDA&bg_color=00000000&color=6ee04a&line=6ee04a&point=ffffff&area=true&area_color=6ee04a15&hide_border=true&custom_title=" width="92%" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SapotaDA/SapotaDA/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SapotaDA/SapotaDA/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SapotaDA/SapotaDA/output/github-snake-dark.svg" width="92%" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<h3>"Ship fast, learn faster, break nothing."</h3>
+
+<sub>
+Delhi, India &middot; <a href="mailto:aaravuniyal3@gmail.com">aaravuniyal3@gmail.com</a>
+</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SapotaDA&color=000&style=flat-square&label=visitors" />
+
+<br/><br/>
 
 </div>
