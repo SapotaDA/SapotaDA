@@ -11,7 +11,7 @@
 <br/><br/>
 
 <a href="https://github.com/SapotaDA"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=fff" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aaravuniyal"><img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aarav-uniyal-24943222a/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;&nbsp;
 <a href="mailto:aaravuniyal3@gmail.com"><img src="https://img.shields.io/badge/-Mail-000?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
 
 <br/><br/>
