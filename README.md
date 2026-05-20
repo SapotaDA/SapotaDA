@@ -112,12 +112,12 @@ building full-stack web apps, real-time platforms, and CI/CD pipelines on AWS. I
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SapotaDA&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=6ee04a&text_color=8b949e&ring_color=6ee04a&count_private=true&include_all_commits=false" />&nbsp;&nbsp;&nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SapotaDA&theme=transparent&hide_border=true&ring=6ee04a&fire=6ee04a&currStreakLabel=ffffff&sideLabels=8B949E&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff&mode=weekly&starting_year=2026" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SapotaDA&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=6ee04a&text_color=8b949e&ring_color=6ee04a" />&nbsp;&nbsp;&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SapotaDA&theme=transparent&hide_border=true&ring=6ee04a&fire=6ee04a&currStreakLabel=ffffff&sideLabels=8B949E&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SapotaDA&bg_color=00000000&color=6ee04a&line=6ee04a&point=ffffff&area=true&area_color=6ee04a15&hide_border=true&custom_title=2026+Contribution+Activity&days=365" width="92%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SapotaDA&bg_color=00000000&color=6ee04a&line=6ee04a&point=ffffff&area=true&area_color=6ee04a15&hide_border=true&custom_title=" width="92%" />
 
 <br/><br/>
 
